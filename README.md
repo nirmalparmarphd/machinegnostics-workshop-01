@@ -67,7 +67,7 @@ By the end of this workshop, you will:
 
 **Files:** `notebook_01_breaking_the_ice.ipynb` & `notebook_02_breaking_the_ice.ipynb`
 
-**Duration:** ~60 minutes | **Difficulty:** Beginner ✓
+**Duration:** ~30 minutes | **Difficulty:** Beginner ✓
 
 What you'll learn:
 
@@ -90,7 +90,7 @@ What you'll learn:
 
 **File:** `notebook_02_model_comparison.ipynb`
 
-**Duration:** ~90 minutes | **Difficulty:** Intermediate ⬆️
+**Duration:** ~30 minutes | **Difficulty:** Intermediate ⬆️
 
 What you'll learn:
 
@@ -121,7 +121,7 @@ What you'll learn:
 
 **File:** `notebook_03_advanced_ml.ipynb`
 
-**Duration:** ~120 minutes | **Difficulty:** Advanced 🔥
+**Duration:** ~30 minutes | **Difficulty:** Advanced 🔥
 
 What you'll learn:
 
@@ -293,11 +293,11 @@ pip install numpy matplotlib scikit-learn
 
 **Estimated Time:**
 
-- **Total Workshop:** 4-6 hours spread over multiple sessions
-- **Part 1:** 1 hour
-- **Part 2:** 1.5 hours
-- **Part 3:** 2-3 hours
-- **Exercises:** 1-2 hours
+- **Total Workshop:** ~1.5-2 hours (or spread over multiple sessions)
+- **Part 1:** ~30 minutes
+- **Part 2:** ~30 minutes
+- **Part 3:** ~30 minutes
+- **Exercises:** ~30-45 minutes
 
 ---
 
