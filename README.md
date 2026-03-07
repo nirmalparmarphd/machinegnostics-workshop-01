@@ -186,52 +186,37 @@ Quick reference example showing:
 
 You can run all notebooks directly in **Google Colab** without installing anything on your computer! Click the badge below for each notebook:
 
-### **Option 1: Quick Start with Colab**
-
-If you have the notebook files, you can:
-
-1. **Upload to Google Colab:**
-   - Go to [Google Colab](https://colab.research.google.com/)
-   - Click **"File" → "Open notebook" → "Upload"**
-   - Select any `.ipynb` file from this workshop
-   - Everything is pre-configured! Start learning immediately
-
-2. **Or use GitHub (if repo is public):**
-   - Click **"File" → "Open notebook" → "GitHub"**
-   - Paste the GitHub URL
-   - Select the notebook you want
-
 ### **Notebook Links for Google Colab**
 
-If this workshop is uploaded to GitHub, use these direct links:
-
-> ⚠️ **Note:** Replace `nirmalparmarphd` and `machinegnostics-workshop-01` with your actual values
-
-| Notebook | Colab Link |
-|----------|-----------|
-| **Part 1A: Breaking the Ice** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nirmalparmarphd/machinegnostics-workshop-01/blob/main/notebook_01_breaking_the_ice.ipynb) |
+| Notebook                                        | Colab Link                                                                                                                                                                                                 |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Part 1A: Breaking the Ice**             | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nirmalparmarphd/machinegnostics-workshop-01/blob/main/notebook_01_breaking_the_ice.ipynb) |
 | **Part 1B: Breaking the Ice (Continued)** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nirmalparmarphd/machinegnostics-workshop-01/blob/main/notebook_02_breaking_the_ice.ipynb) |
-| **Part 2: Model Comparison** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nirmalparmarphd/machinegnostics-workshop-01/blob/main/notebook_02_model_comparison.ipynb) |
-| **Part 3: Advanced ML** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nirmalparmarphd/machinegnostics-workshop-01/blob/main/notebook_03_advanced_ml.ipynb) |
+| **Part 2: Model Comparison**              | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nirmalparmarphd/machinegnostics-workshop-01/blob/main/notebook_02_model_comparison.ipynb) |
+| **Part 3: Advanced ML**                   | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nirmalparmarphd/machinegnostics-workshop-01/blob/main/notebook_03_advanced_ml.ipynb)      |
 
 ### **Why Google Colab?**
 
 ✨ **No Installation Needed**
+
 - Python and Jupyter pre-installed
 - All standard libraries ready
 - Just click and start coding
 
 ✨ **Free GPU/TPU Access**
+
 - Click **"Runtime" → "Change runtime type"**
 - Select **GPU** or **TPU** for faster computation
 - Perfect for future deep learning projects
 
 ✨ **Cloud Storage**
+
 - Your notebooks saved automatically
 - Access from any device
 - Share easily with others
 
 ✨ **Perfect for Learning**
+
 - No environment setup issues
 - Same experience for all students
 - Focus on learning, not troubleshooting
